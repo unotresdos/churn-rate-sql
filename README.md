@@ -29,6 +29,6 @@ The dataset provided to you contains one SQL table,  `subscriptions`. Within the
 
 ## Project Files
 
-[churn_rate.sql](https://github.com/unotresdos/churn-rate-sql/blob/master/churn_rate.sql)  - SQL query to calculate churn rate 
-[churn_rate_general.sql](https://github.com/unotresdos/churn-rate-sql/blob/master/churn_rate_general.sql)- General SQL queries to calculate churn rate
+- [churn_rate.sql](https://github.com/unotresdos/churn-rate-sql/blob/master/churn_rate.sql)  - SQL query to calculate churn rate 
+- [churn_rate_general.sql](https://github.com/unotresdos/churn-rate-sql/blob/master/churn_rate_general.sql)- General SQL queries to calculate churn rate
 
